@@ -1,0 +1,38 @@
+php artisan make:controller UserController
+
+laraveltut1 db
+
+when make change in .env again start server
+
+
+
+for storage avatar view
+terminal -> php artisan storage:link
+
+TILL 02:16:35
+
+terminal - php artisan make:component Alert
+
+TILL 02:34:35
+
+------------------------------------------------------
+
+todo list
+    model todo
+    migration todo
+    routes
+    controller
+
+php artisan make:model -h = help
+
+terminal - php artisan make:model Todo -mc
+
+php artisan migrate
+
+
+
+https://laravel.com/docs/8.x/validation#creating-form-requests
+ - php artisan make:request TodoCreateRequest
+ - check app-http-requests
+
+TILL 04:19:00
